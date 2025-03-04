@@ -58,14 +58,13 @@ Want to enhance **MythicMorph**? Feel free to fork the repo, submit PRs, or sugg
 ### Example 1
 #### Input:
 <img src="examples/input_example_1.jpg" alt="Input Image" width="300">
-Text : Make me a demon , smile on face , red horns ,  8k , realistic .
+Prompt : Make me a demon , smile on face , red horns ,  8k , realistic .
 #### Output:
 <img src="examples/output_example_1.webp" alt="Generated Image" width="300">
 
 ### Example 2
 #### Input:
-<img src="examples/input_example_2.png" alt="Input Image" width="300">
-Text : 
+##### Prompt : make a fairy mermaid , Add feathers , Big smile , Green Body  ,  8k, highly realistic
 #### Output:
 <img src="examples/output_example_2.png" alt="Generated Image" width="300">
 

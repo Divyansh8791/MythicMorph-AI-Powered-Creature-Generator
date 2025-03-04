@@ -60,7 +60,7 @@ Want to enhance **MythicMorph**? Feel free to fork the repo, submit PRs, or sugg
 <img src="examples/input_example_1.jpg" alt="Input Image" width="300">
 Text : 
 #### Output:
-<img src="examples/output_example_1.png" alt="Generated Image" width="300">
+<img src="examples/output_example_1.WEBP" alt="Generated Image" width="300">
 
 ### Example 2
 #### Input:
